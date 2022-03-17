@@ -21,6 +21,6 @@ def main(a):
         return 'three-digit odd number'
 
     if a>99 and a<1000 and a%2==0:
-        return 'there-digit even number'
+        return 'three-digit even number'
 
     
