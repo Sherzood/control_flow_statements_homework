@@ -34,4 +34,4 @@ def main(a,b,c):
         return "there are a lot of positive numbers"
     if n>1 and n<=3:
         return "there are a lot of negative numbers"                       
-print(main(2,4,1))        
+    
